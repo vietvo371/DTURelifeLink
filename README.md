@@ -225,6 +225,9 @@ Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
 ## 📜 Changelog
 Xem [CHANGELOG.md](CHANGELOG.md) để biết lịch sử thay đổi.
 
+## 📜 Code of Conduct
+Xem [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
+
 ## Báo cáo lỗi & Góp ý
 - Issues: [GitHub Issues](https://github.com/Truongpyeo/DTURelifeLink/issues)
 - Security: Đối với các vấn đề bảo mật nhạy cảm, vui lòng liên hệ trực tiếp qua email: thanhtruong23111999@gmail.com
