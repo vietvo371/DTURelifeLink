@@ -155,6 +155,52 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ### 📝 License
 Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](LICENSE)
 
+## 🖥️ Truy cập hệ thống
+
+### Demo Online
+Bạn có thể trải nghiệm ReliefLink tại: https://dz1.dzfullstack.com/
+
+### Tạo tài khoản
+1. Truy cập trang đăng ký: https://dz1.dzfullstack.com/user/login
+2. Điền các thông tin cần thiết:
+   - Email
+   - Mật khẩu
+3. Xác nhận email để kích hoạt tài khoản
+4. Đăng nhập và bắt đầu sử dụng hệ thống
+
+### Các portal trong hệ thống
+- 👥 **Portal Người Dùng**: [relieflinknguoidung](https://dz1.dzfullstack.com/app/dtudz2-nguoidung/trang-chu-6750f44df0b1ed2b4a0eb675?branch=master&environment=production)
+  - Dành cho người dân cần hỗ trợ cứu nạn
+  - Theo dõi tình hình thiên tai
+  - Yêu cầu hỗ trợ khẩn cấp
+
+- 🦺 **Portal Nhân Lực**: [relieflinknhanluc](https://dz1.dzfullstack.com/app/dtudz2-nhanluc/ang-nhap-6750f4ebf0b1ed2b4a0eb697?branch=master)  
+  - Dành cho đội ngũ cứu hộ
+  - Quản lý nhiệm vụ cứu trợ
+  - Điều phối nguồn lực
+
+- ⚙️ **Portal Admin**: [relieflinkadmin](https://dz1.dzfullstack.com/app/dtudz2-admin/master-admin-6750f0d8f0b1ed2b4a0eb5d6?branch=master&environment=production)
+  - Dành cho quản trị viên hệ thống
+  - Quản lý người dùng và phân quyền
+  - Theo dõi hoạt động toàn hệ thống
+
+### Tài khoản demo
+Bạn có thể dùng các tài khoản sau để trải nghiệm:
+
+**Portal Người Dùng:**
+- Email: nguoidung@demo.com
+- Password: 123456
+
+**Portal Nhân Lực:**
+- Email: nhanluc@demo.com  
+- Password: 123456
+
+**Portal Admin:**
+- Email: admin@demo.com
+- Password: 123456
+
+> **Lưu ý**: Đây là tài khoản demo chỉ có quyền hạn giới hạn. Để sử dụng đầy đủ tính năng, vui lòng đăng ký tài khoản mới.
+
 ## 🏗 Cấu trúc dự án
 
 ```
