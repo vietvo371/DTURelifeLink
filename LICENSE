@@ -1,42 +1,21 @@
-GNU GENERAL PUBLIC LICENSE
-   Version 3, 29 June 2007
+MIT License
 
-Copyright (C) 2024 RELIEFLINK by DTU_DZ Team
+Copyright (c) 2024 DTU_DZ
 
-This program is free software: you can redistribute it and/or modify
-it under the terms of the GNU General Public License as published by
-the Free Software Foundation, either version 3 of the License, or
-(at your option) any later version.
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
-GNU General Public License for more details.
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-You should have received a copy of the GNU General Public License
-along with this program.  If not, see <https://www.gnu.org/licenses/>.
-
-                     ADDITIONAL TERMS
-                     
-The following additional terms apply to RELIEFLINK:
-
-1. Attribution Requirements:
-   - You must retain the original copyright notice and license terms
-   - You must provide clear attribution to "DTU_DZ Team - Duy Tan University"
-   - You must indicate significant changes made to the original work
-
-2. Network Usage:
-   - If you run a modified version of the program on a server accessible 
-     to users over a network, you must make the complete source code available
-     to those users
-
-3. User Data Protection:
-   - Any collection or processing of user data must comply with applicable
-     privacy laws and regulations
-   - Users must be clearly informed about data collection and usage
-
-For full terms and conditions, see <https://www.gnu.org/licenses/gpl-3.0.html>
-
-Contact:
-Email: thanhtruong23111999@gmail.com
-Phone: +84 376 659 652 
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
