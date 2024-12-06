@@ -47,7 +47,7 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Added
 - Thêm hướng dẫn chi tiết về cách kết nối MongoDB Atlas
-- Bổ sung URI kết nối MongoDB có sẵn cho dự án
+- Bổ sung URL kết nối MongoDB có sẵn cho dự án
 - Thêm tài liệu tham khảo về MongoDB và Appsmith
 
 ### Changed
@@ -62,7 +62,7 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 ## [1.0.1] - 2024-12-06
 
 ### Changed
-- Cập nhật tên repo từ relieflink sang DTURelifeLink
+- Cập nhật tên repo từ relieflink sang DTUReliefLink
 - Cập nhật tất cả các đường dẫn trong README và tài liệu
 - Sửa lỗi hiển thị tiếng Việt trong README
 - Chuẩn hóa cấu trúc dự án theo tiêu chuẩn mã nguồn mở
@@ -92,7 +92,7 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Changed
 - Nâng cấp giao diện người dùng
-- T��i ưu hóa hiệu suất hệ thống
+- Tối ưu hóa hiệu suất hệ thống
 
 ### Fixed
 - Sửa lỗi xác thực người dùng

@@ -13,7 +13,7 @@
 
 
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực
-  Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
+  Mục tiêu của dự án là phát triển một hệ thống dựa trên `nền tảng LCDP` để hỗ trợ cứu nạn cứu trợ khẩn cấp, quản lý nguồn lực cứu trợ và quản lý tái thiết sau thảm họa.
 
 Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
 . Được open source theo giấy phép [MIT License](https://github.com/Truongpyeo/DTURelifeLink/blob/main/LICENSE) bởi đội tác giả DTU_DZ.
@@ -117,9 +117,9 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 -  **Tăng cường năng lực ứng phó với thảm họa** : Hệ thống có thể trở thành một công cụ quan trọng cho các quốc gia thường xuyên chịu ảnh hưởng bởi thiên tai, giúp nâng cao khả năng ứng phó nhanh chóng và giảm thiểu thiệt hại.Mở rộng ứng dụng cho các tình huống khẩn cấp khác, như dịch bệnh, khủng hoảng nhân đạo, hoặc các sự kiện bất ngờ.
 - **Phát triển thành một nền tảng quốc tế** : Dự án có tiềm năng trở thành một hệ thống tiêu chuẩn, được sử dụng bởi các tổ chức quốc tế và các tổ chức nhân đạo khác để phối hợp cứu trợ trên toàn cầu.
-- **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra.Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân phối nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ
-- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa.Tích hợp công nghệ để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
-- **Khai thác các công nghệ tiên tiến** : Ứng dụng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện và đánh giá thảm họa.
+- **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra. Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân phối nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ
+- **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa.Phát triển hơn để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
+- **Khai thác các công nghệ tiên tiến** : Ứng dụng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện, cứu trợ và đánh giá thảm họa.
 
 ## 📢 Đối tượng hướng đến
 
