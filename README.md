@@ -180,10 +180,10 @@ relieflink/
 - Appsmith Server
 
 ### Các bước triển khai
-1. Fork các repository mẫu:
-   - [Admin Portal](https://github.com/Truongpyeo/DTUDZ2_Admin)
-   - [Workforce Portal](https://github.com/Truongpyeo/DTUDZ2_NhanLuc)
-   - [User Portal](https://github.com/Truongpyeo/DTUDZ2_NguoiDung)
+1. Fork các repository của ReliefLink:
+   - [Repo Admin](https://github.com/Truongpyeo/DTUDZ2_Admin)
+   - [Repo Nhân Lực](https://github.com/Truongpyeo/DTUDZ2_NhanLuc)
+   - [Repo Người Dùng](https://github.com/Truongpyeo/DTUDZ2_NguoiDung)
 
 2. Import vào Appsmith:
    - Truy cập Appsmith workspace
@@ -192,6 +192,14 @@ relieflink/
    - Kết nối MongoDB với URI có sẵn
 
 Chi tiết hơn xem trong [docs/setup.md](docs/setup.md)
+
+## 📚 Plugins
+- [DTUAppSmithMap](https://www.npmjs.com/package/dtuappsmithmap)
+- [DTUAppSmithRealTime]()
+
+## 📚 Services
+- [DTUServerSocket](https://github.com/Truongpyeo/DTUServerSocket)
+
 
 ## 📚 Tài liệu
 - [Hướng dẫn cài đặt](docs/setup.md)
