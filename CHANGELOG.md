@@ -12,6 +12,22 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Thiết lập cấu trúc repo và tài liệu chuẩn
 - Thêm hướng dẫn đóng góp và cài đặt
 - Giấy phép GPL v3
+- Thêm CI/CD workflow với GitHub Actions
+
+## [1.1.2] - 2024-12-07
+
+### Added
+- Thêm CI/CD workflow với GitHub Actions
+- Bổ sung hướng dẫn đóng góp chi tiết
+- Thêm mailing lists và kênh cộng đồng
+
+### Changed
+- Cập nhật CONTRIBUTING.md với quy trình làm việc chi tiết
+- Bổ sung thông tin về testing trong tài liệu
+
+### Security
+- Thêm quy trình báo cáo lỗi bảo mật
+
 
 ## [1.1.1] - 2024-12-06
 
@@ -76,7 +92,7 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 
 ### Changed
 - Nâng cấp giao diện người dùng
-- Tối ưu hóa hiệu suất hệ thống
+- T��i ưu hóa hiệu suất hệ thống
 
 ### Fixed
 - Sửa lỗi xác thực người dùng
@@ -88,6 +104,8 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Khởi tạo dự án
 - Thiết kế kiến trúc hệ thống
 - Xây dựng prototype đầu tiên
+
+
 
 [Unreleased]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.1.1...HEAD
 [1.1.1]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.1.0...v1.1.1

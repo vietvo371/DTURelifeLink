@@ -1,0 +1,32 @@
+name: CI/CD
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - uses: actions/checkout@v2
+    
+    - name: Validate JSON files
+      run: |
+        for file in src/*.json; do
+          if ! jq empty "$file" 2>/dev/null; then
+            echo "Invalid JSON in $file"
+            exit 1
+          fi
+        done
+    
+    - name: Check Markdown links
+      uses: gaurav-nelson/github-action-markdown-link-check@v1
+      
+    - name: Lint Markdown files
+      uses: avto-dev/markdown-lint@v1
+      with:
+        config: '.markdownlint.json'
+        args: '**/*.md' 
