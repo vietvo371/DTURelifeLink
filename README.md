@@ -15,7 +15,7 @@
 Ứng dụng hỗ trợ cứu nạn khẩn cấp và quản lý nguồn lực
 
 
-  Mục tiêu của dự án  là phát triển một hệ thống dựa trên `nền tảng LCDP` ���ng dụng công nghệ trí tuệ nhân tạo để hỗ trợ tìm kiếm người mất tích, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
+  Mục tiêu của dự án  là phát triển một hệ thống dựa trên `nền tảng LCDP` ng dụng công nghệ trí tuệ nhân tạo để hỗ trợ tìm kiếm người mất tích, đánh giá thiệt hại và quản lý tái thiết sau thảm họa.
 
 Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Olympic Tin học Sinh viên Việt Nam 2024](https://www.olp.vn/procon-pmmn/ph%E1%BA%A7n-m%E1%BB%81m-ngu%E1%BB%93n-m%E1%BB%9F)
 . Được open source theo giấy phép [GNU General Public License](https://github.com/olp-dtu-2024/DTU-GreenHope/blob/main/LICENCE)  v3.0 bởi đội tác giả DTU_DZ.
@@ -44,14 +44,14 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 - 🌪️ Cảnh báo và hướng dẫn an toàn trong thảm hoạ
 
 ## 🎯 Mục tiêu 
--  **Tăng cường hiệu quả cứu trợ**: Cung c���p công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
+-  **Tăng cường hiệu quả cứu trợ**: Cung cp công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
 
 -  **Ứng dụng công nghệ bản đồ**: Sử dụng bản đồ trực tuyến để xác định và hiển thị các khu vực bị ảnh hưởng, từ đó hỗ trợ việc phân bổ tài nguyên và điều phối các đội cứu hộ một cách hiệu quả.
 
 -  **Phân tích dữ liệu và đưa ra quyết định**: Thu thập và phân tích dữ liệu từ các nguồn khác nhau để đưa ra các quyết định kịp thời về việc phân phối tài nguyên, điều động lực lượng cứu hộ và tối ưu hóa các hoạt động cứu trợ.
 
 - **Tăng cường phối hợp và điều phối**: Cung cấp các giao diện dễ sử dụng để các đơn vị cứu hộ có thể phối hợp với nhau, đảm bảo hoạt động cứu trợ diễn ra thông suốt và hiệu quả trong mọi tình huống.
-- **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đồng sau thảm họa..
+- **Giảm thiểu thời gian phản ứng**: Cải thiện thời gian phản ứng của các đội cứu hộ, giúp giảm thiểu thiệt hại và nâng cao khả năng phục hồi của cộng đ��ng sau thảm họa..
 - **Cải thiện khả năng tiếp cận và hỗ trợ cộng đồng**: Xây dựng các tính năng đặc biệt để đảm bảo các nhóm người dễ bị tổn thương như người già, trẻ em, người khuyết tật nhận được sự hỗ trợ kịp thời và công bằng.
 
 
@@ -91,7 +91,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 ### 🏃 Xây dựng hệ thống ứng cứu hiệu quả 
 - Quản lý thảm họa
-- Kinh tế cứu trợ thảm h���a 
+- Kinh tế cứu trợ thảm ha 
 - Quản lý tình nguyện và lực lượng hỗ trợ
 - Phân tích dữ liệu cộng đồng
 - Hỗ trợ ra quyết định kịp thời và chính xác
@@ -110,8 +110,8 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ##  📌 Các đặc điểm nổi bật  và lợi ích cho người dùng
 - **Cảnh báo sớm và dự báo thiên tai** : Hệ thống cảnh báo sớm giúp giảm thiểu thiệt hại về người và tài sản, đồng thời tăng cường khả năng chuẩn bị của cộng đồng trước thiên tai.
 - **Ứng phó tình huống khẩn cấp**  : Các phương án ứng phó khẩn cấp được triển khai nhanh chóng và hiệu quả nhờ vào công nghệ hiện đại, giúp cứu sống nhiều người và giảm thiểu rủi ro cho các đội cứu hộ.
-- **Tác động tích cực trên nhiều khía cạnh** :  X hội , kinh tế , môi trường, công nghệ
-- **Đối với c��ng đồng và người dân** : Tham gia vào các chương trình đào tạo và tập huấn về ứng phó thiên tai.Chủ động tìm hiểu về các biện pháp phòng tránh và ứng phó với thiên tai.Hỗ trợ lẫn nhau trong các tình huống khẩn cấp, đặc biệt là các nhóm dễ bị tổn thương như người già, trẻ em, và người khuyết tật.
+- **Tác động tích cực trên nhiều khía cạnh** :  X hội , kinh tế , môi tr��ờng, công nghệ
+- **Đối với cng đồng và người dân** : Tham gia vào các chương trình đào tạo và tập huấn về ứng phó thiên tai.Chủ động tìm hiểu về các biện pháp phòng tránh và ứng phó với thiên tai.Hỗ trợ lẫn nhau trong các tình huống khẩn cấp, đặc biệt là các nhóm dễ bị tổn thương như người già, trẻ em, và người khuyết tật.
 - **Đối với các doanh nghiệp và nhà đầu tư** : Hỗ trợ tài chính và công nghệ để phát triển và triển khai các giải pháp của dự án.Đóng góp vào các hoạt động cứu trợ và tái thiết như một phần của trách nhiệm xã hội doanh nghiệp.
 
        *`RELIEFLINK`* không chỉ là một dự án hỗ trợ khẩn cấp mà còn là một lời kêu gọi hành động – hành động vì sự an toàn của cộng đồng, vì sự phát triển bền vững của đất nước, và vì tương lai của thế hệ mai sau.
@@ -131,7 +131,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 - **Nhân viên cứu hộ và cứu trợ**: Những người tham gia vào công tác cứu hộ, cứu trợ và phục hồi sau thiên tai. Họ cần được trang bị kiến thức, kỹ năng và công cụ cần thiết để thực hiện nhiệm vụ một cách hiệu quả.
 
-- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : 	Sử dụng hệ thống cảnh báo sớm để l���p kế hoạch ứng phó hiệu quả.
+- **Chính quyền địa phương và các cơ quan quản lý thiên tai** : 	Sử dụng hệ thống cảnh báo sớm để lp kế hoạch ứng phó hiệu quả.
 Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ thống quản lý thông minh (smart management system).Đánh giá thiệt hại nhanh chóng và chính xác, từ đó đưa ra các quyết định tái thiết phù hợp.
     
 
@@ -140,7 +140,7 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 - **Cộng đồng bị ảnh hưởng bởi thảm họa** : Các cá nhân và cộng đồng trực tiếp chịu ảnh hưởng từ thảm họa sẽ có thể nhận được hỗ trợ thông qua nền tảng. Hệ thống cung cấp thông tin về các hoạt động cứu trợ, tái thiết và giúp kết nối với các tổ chức cung cấp nguồn lực.
 - **Truyền thông**: Đóng vai trò quan trọng trong việc truyền tải thông tin kịp thời và chính xác đến người dân và các cơ quan chức năng.
 
-- **Các tổ chức, công ty cung cấp dịch vụ cứu nạn**: Các công ty cung cấp dịch vụ cứu hộ, y tế, vật tư, và tái thiết cơ sở hạ tầng sẽ sử dụng hệ thống để theo dõi các yêu cầu và hỗ trợ các hoạt động cứu nạn và phục hồi. Họ có thể nhận thông tin chi tiết về khu vực bị ảnh hưởng và điều phối các nguồn lực cần thiết.
+- **Các tổ chức, công ty cung c��p dịch vụ cứu nạn**: Các công ty cung cấp dịch vụ cứu hộ, y tế, vật tư, và tái thiết cơ sở hạ tầng sẽ sử dụng hệ thống để theo dõi các yêu cầu và hỗ trợ các hoạt động cứu nạn và phục hồi. Họ có thể nhận thông tin chi tiết về khu vực bị ảnh hưởng và điều phối các nguồn lực cần thiết.
 
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phc hồi cho các thảm họa trong tương lai.
 

@@ -13,7 +13,21 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Thêm hướng dẫn đóng góp và cài đặt
 - Giấy phép GPL v3
 
-## [1.0.2] - 2024-12-06
+## [1.1.1] - 2024-12-06
+
+### Added
+- Thêm các file JSON mẫu trong thư mục src
+- Bổ sung phương án import trực tiếp từ file JSON
+
+### Changed
+- Cập nhật đường dẫn tới các file JSON mẫu
+- Cải thiện hướng dẫn import từ file trong setup.md
+
+### Fixed
+- Sửa lỗi hiển thị tiếng Việt trong README
+- Khắc phục các đường dẫn không hợp lệ
+
+## [1.1.0] - 2024-12-06
 
 ### Added
 - Thêm hướng dẫn chi tiết về cách kết nối MongoDB Atlas
@@ -75,7 +89,8 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Thiết kế kiến trúc hệ thống
 - Xây dựng prototype đầu tiên
 
-[Unreleased]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.2...HEAD
+[Unreleased]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.1.1...HEAD
+[1.1.1]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.1.0...v1.1.1
 [1.0.2]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Truongpyeo/DTURelifeLink/compare/v0.1.0...v1.0.0

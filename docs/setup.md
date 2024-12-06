@@ -66,16 +66,20 @@ Lưu ý:
 
 Nếu bạn không muốn sử dụng Git, bạn có thể import trực tiếp file JSON của ứng dụng:
 
-1. Download các file JSON
-   - [Admin Portal](link_to_admin.json)
-   - [Workforce Portal](link_to_workforce.json) 
-   - [User Portal](link_to_user.json)
+1. Download các file JSON từ thư mục src:
+    - [Admin Portal](../src/DTUDZ2_Admin.json)
+    - [Workforce Portal](../src/DTUDZ2_NhanLuc.json) 
+    - [User Portal](../src/DTUDZ2_NguoiDung.json)
 
-2. Import vào Appsmith
+2. Import vào Appsmith:
    - Click **Create New** > **Import**
    - Chọn **Import from file**
-   - Upload file JSON
-   - Cấu hình lại datasources
+   - Upload file JSON tương ứng
+   - Cấu hình lại datasources:
+     + Kết nối MongoDB với URI có sẵn:
+     ```
+     mongodb+srv://admin:admin@cluster0.gw0vs.mongodb.net/rescue_alert
+     ```
 
 ## Xử lý lỗi thường gặp
 
