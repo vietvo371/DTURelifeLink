@@ -13,6 +13,22 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Thêm hướng dẫn đóng góp và cài đặt
 - Giấy phép GPL v3
 
+## [1.0.2] - 2024-12-06
+
+### Added
+- Thêm hướng dẫn chi tiết về cách kết nối MongoDB Atlas
+- Bổ sung URI kết nối MongoDB có sẵn cho dự án
+- Thêm tài liệu tham khảo về MongoDB và Appsmith
+
+### Changed
+- Cải thiện hướng dẫn import từ Git Repository
+- Đơn giản hóa quy trình setup với URI có sẵn
+- Tổ chức lại cấu trúc tài liệu setup.md
+
+### Removed
+- Loại bỏ phương án Personal Access Token không cần thiết
+- Gỡ bỏ các hình ảnh không sử dụng
+
 ## [1.0.1] - 2024-12-06
 
 ### Changed
@@ -59,7 +75,8 @@ và dự án này tuân theo [Semantic Versioning](https://semver.org/spec/v2.0.
 - Thiết kế kiến trúc hệ thống
 - Xây dựng prototype đầu tiên
 
-[Unreleased]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.1...HEAD
+[Unreleased]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.2...HEAD
+[1.0.2]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.1...v1.0.2
 [1.0.1]: https://github.com/Truongpyeo/DTURelifeLink/compare/v1.0.0...v1.0.1
 [1.0.0]: https://github.com/Truongpyeo/DTURelifeLink/compare/v0.1.0...v1.0.0
 [0.1.0]: https://github.com/Truongpyeo/DTURelifeLink/releases/tag/v0.1.0 
