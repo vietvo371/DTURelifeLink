@@ -110,7 +110,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ##  📌 Các đặc điểm nổi bật  và lợi ích cho người dùng
 - **Cảnh báo sớm và dự báo thiên tai** : Hệ thống cảnh báo sớm giúp giảm thiểu thiệt hại về người và tài sản, đồng thời tăng cường khả năng chuẩn bị của cộng đồng trước thiên tai.
 - **Ứng phó tình huống khẩn cấp**  : Các phương án ứng phó khẩn cấp được triển khai nhanh chóng và hiệu quả nhờ vào công nghệ hiện đại, giúp cứu sống nhiều người và giảm thiểu rủi ro cho các đội cứu hộ.
-- **Tác động tích cực trên nhiều khía cạnh** :  Xã hội , kinh tế , môi trường, công nghệ
+- **Tác động tích cực trên nhiều khía cạnh** :  X hội , kinh tế , môi trường, công nghệ
 - **Đối với cộng đồng và người dân** : Tham gia vào các chương trình đào tạo và tập huấn về ứng phó thiên tai.Chủ động tìm hiểu về các biện pháp phòng tránh và ứng phó với thiên tai.Hỗ trợ lẫn nhau trong các tình huống khẩn cấp, đặc biệt là các nhóm dễ bị tổn thương như người già, trẻ em, và người khuyết tật.
 - **Đối với các doanh nghiệp và nhà đầu tư** : Hỗ trợ tài chính và công nghệ để phát triển và triển khai các giải pháp của dự án.Đóng góp vào các hoạt động cứu trợ và tái thiết như một phần của trách nhiệm xã hội doanh nghiệp.
 
@@ -142,7 +142,7 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 
 - **Các tổ chức, công ty cung cấp dịch vụ cứu nạn**: Các công ty cung cấp dịch vụ cứu hộ, y tế, vật tư, và tái thiết cơ sở hạ tầng sẽ sử dụng hệ thống để theo dõi các yêu cầu và hỗ trợ các hoạt động cứu nạn và phục hồi. Họ có thể nhận thông tin chi tiết về khu vực bị ảnh hưởng và điều phối các nguồn lực cần thiết.
 
-- **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
+- **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phc hồi cho các thảm họa trong tương lai.
 
 ## 💡Nhà phát triển
 
@@ -152,4 +152,72 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 
 *" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License
-Dự án này được cấp phép theo các điều khoản của giấy phép [GPL V3 License](https://github.com/olp-dtu-2024/DTU-GreenHope/blob/main/LICENCE)
+Dự án này được cấp phép theo các điều khoản của giấy phép [GPL V3 License](LICENSE)
+
+## 🏗 Cấu trúc dự án
+
+```
+relieflink/
+├── admin/           # Admin portal - Quản lý hệ thống
+│   ├── pages/       # Các trang quản lý
+│   └── widgets/     # Components tái sử dụng
+├── workforce/       # Portal quản lý nhân lực
+│   ├── pages/       # Trang cho đội cứu hộ
+│   └── widgets/     # Components tái sử dụng  
+├── user/           # Portal người dùng
+│   ├── pages/      # Trang cho người dân
+│   └── widgets/    # Components tái sử dụng
+├── docs/           # Tài liệu
+│   ├── setup.md    # Hướng dẫn cài đặt
+│   ├── api.md      # Tài liệu API
+│   └── contribute.md # Hướng dẫn đóng góp
+└── assets/         # Hình ảnh, tài nguyên
+```
+
+## ⚙️ Hướng dẫn cài đặt
+
+### Yêu cầu hệ thống
+- Node.js >= 14
+- Docker & Docker Compose 
+- Appsmith Server
+
+### Các bước cài đặt
+1. Clone các repo con:
+```bash
+git clone https://github.com/Truongpyeo/DTUDZ2_Admin.git admin
+git clone https://github.com/Truongpyeo/DTUDZ2_NhanLuc.git workforce  
+git clone https://github.com/Truongpyeo/DTUDZ2_NguoiDung.git user
+```
+
+2. Import ứng dụng vào Appsmith:
+- Truy cập Appsmith workspace
+- Import từng ứng dụng từ thư mục tương ứng
+- Cấu hình các biến môi trường theo hướng dẫn trong docs/setup.md
+
+Chi tiết hơn xem trong [docs/setup.md](docs/setup.md)
+
+## 📚 Tài liệu
+- [Hướng dẫn cài đặt](docs/setup.md)
+- [Hướng dẫn đóng góp](CONTRIBUTING.md)
+
+## 🤝 Đóng góp
+Chúng tôi rất hoan nghênh mọi đóng góp! Xem [CONTRIBUTING.md](CONTRIBUTING.md) để biết thêm chi tiết.
+
+## 🔄 Quy trình phát triển
+1. Fork repo này
+2. Tạo branch mới (`git checkout -b feature/AmazingFeature`)
+3. Commit thay đổi (`git commit -m 'Add some AmazingFeature'`)
+4. Push lên branch (`git push origin feature/AmazingFeature`) 
+5. Tạo Pull Request
+
+## 🐛 Báo lỗi
+Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
+- Mô tả chi tiết lỗi
+- Các bước tái hiện
+- Screenshots nếu có
+- Môi trường (browser, OS...)
+
+## 📜 Changelog
+Xem [CHANGELOG.md](CHANGELOG.md) để biết lịch sử thay đổi.
+
+```
