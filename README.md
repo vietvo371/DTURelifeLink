@@ -169,11 +169,10 @@ relieflink/
 │   └── contribute.md # Hướng dẫn đóng góp
 └── assets/         # Hình ảnh, tài nguyên
 ```
-## ️ Hướng dẫn chung
-
+## 📖 Hướng dẫn chung
    ### Document [Document](https://docs-relieflink.thanhtruongit.io.vn/DTU-Relieflink-documents/docs/intro)
 
-## ️ Hướng dẫn cài đặt
+## 📚 Hướng dẫn cài đặt
 
 ### Yêu cầu hệ thống
 - Node.js >= 14
