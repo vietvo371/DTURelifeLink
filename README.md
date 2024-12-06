@@ -26,9 +26,9 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 - 🎯 Quản lý nguồn lực hiệu quả: Giống như có một chuyên gia logistics bên cạnh, RELIEFLINK tối ưu hóa việc phân phối nguồn lực cứu trợ, đảm bảo sự hỗ trợ đến đúng nơi, đúng lúc. Với khả năng phân tích tình hình và đánh giá hiệu quả cứu trợ, chúng tôi giúp bạn quản lý tài nguyên một cách thông minh và bền vững.
 
-- ⚡ Cảnh báo sớm thông minh: Biến thông tin thành hành động với hệ thống cảnh báo sớm tiên tiến. Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng ồng! Hệ thống thông báo khẩn cpa chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
+- ⚡ Cảnh báo sớm thông minh: Biến thông tin thành hành động với hệ thống cảnh báo sớm tiên tiến. Theo dõi và dự báo thảm họa theo thời gian thực để bảo vệ cộng đồng! Hệ thống thông báo khẩn cấp chúng tôi giúp bạn luôn sẵn sàng ứng phó với mọi tình huống, từ thiên tai đến các sự kiện bất ngờ.
 
-- 🤝 Kết nối cộng đồng mạnh mẽ: Xây dựng mạng lưới hỗ trợ rộng khắp với nền tảng kết nối tình nguyện viên và nguồn lực. Cùng nhau, chúng ta mạnh mẽ hơn! RELIEFLINK không chỉ là một công cụ, mà còn l cầu nối giữa những người cần giúp đỡ và những người sẵn sàng hỗ trợ, tạo nên một cộng đồng đoàn kết và vững mạnh.
+- 🤝 Kết nối cộng đồng mạnh mẽ: Xây dựng mạng lưới hỗ trợ rộng khắp với nền tảng kết nối tình nguyện viên và nguồn lực. Cùng nhau, chúng ta mạnh mẽ hơn! RELIEFLINK không chỉ là một công cụ, mà còn là cầu nối giữa những người cần giúp đỡ và những người sẵn sàng hỗ trợ, tạo nên một cộng đồng đoàn kết và vững mạnh.
 
 - 🌍 Tầm nhìn dài hạn: RELIEFLINK không chỉ dừng lại ở việc cứu trợ khẩn cấp mà còn hướng tới tái thiết và phục hồi sau thảm họa. Với sự tích hợp của công nghệ tiên tiến như IoT và phân tích dữ liệu lớn, chúng tôi cam kết mang lại sự phát triển bền vững và an toàn cho cộng đồng trên toàn thế giới.
 
@@ -44,7 +44,7 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ## 🎯 Mục tiêu 
 -  **Tăng cường hiệu quả cứu trợ**: Cung cấp công cụ để theo dõi, phân bổ và quản lý tài nguyên cứu trợ (thực phẩm, nước, thuốc men, v.v.) một cách nhanh chóng và chính xác, đảm bảo các đội cứu hộ có thể đáp ứng nhu cầu kịp thời.
 
--  **Ứng dụng công nghệ bản đồ**: Sử dụng bản đồ trực tuyến để xác định và hiển thị các khu vực bị ảnh hưởng, từ ó hỗ trợ việc phân bổ tài nguyên và điều phối các đội cứu hộ một cách hiệu quả.
+-  **Ứng dụng công nghệ bản đồ**: Sử dụng bản đồ trực tuyến để xác định và hiển thị các khu vực bị ảnh hưởng, từ đó hỗ trợ việc phân bổ tài nguyên và điều phối các đội cứu hộ một cách hiệu quả.
 
 -  **Phân tích dữ liệu và đưa ra quyết định**: Thu thập và phân tích dữ liệu từ các nguồn khác nhau để đưa ra các quyết định kịp thời về việc phân phối tài nguyên, điều động lực lượng cứu hộ và tối ưu hóa các hoạt động cứu trợ.
 
@@ -117,10 +117,10 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 ## 🌏 Mục tiêu dài hạn của dự án 
 
 -  **Tăng cường năng lực ứng phó với thảm họa** : Hệ thống có thể trở thành một công cụ quan trọng cho các quốc gia thường xuyên chịu ảnh hưởng bởi thiên tai, giúp nâng cao khả năng ứng phó nhanh chóng và giảm thiểu thiệt hi.M rộng ứng dụng cho các tình huống khẩn cấp khác, như dịch bệnh, khủng hoảng nhân đạo, hoặc các sự kiện bất ngờ.
-- **Phát triển thành một nền tảng quốc tế** : Dự án có tiềm năng trở thành một hệ thống tiêu chuẩn, được sử dụng bởi các tổ chức quốc tế và các tổ chức nhân đạo khc để phối hợp cứu trợ trên toàn cầu.
+- **Phát triển thành một nền tảng quốc tế** : Dự án có tiềm năng trở thành một hệ thống tiêu chuẩn, được sử dụng bởi các tổ chức quốc tế và các tổ chức nhân đạo khác để phối hợp cứu trợ trên toàn cầu.
 - **Ứng dụng trí tuệ nhân tạo và phân tích dữ liệu lớn** : Sử dụng AI để phân tích và dự đoán thảm họa, từ đó cải thiện khả năng chuẩn bị và ứng phó trước khi thảm họa xảy ra.Phân tích dữ liệu lớn (Big Data) để tối ưu hóa việc phân bổ nguồn lực, dự đoán nhu cầu cứu trợ và đánh giá hiệu quả của các hoạt động cứu trợ
 - **Mở rộng sang lĩnh vực tái thiết và phục hồi** : Hệ thống không chỉ dừng lại ở giai đoạn cứu trợ mà còn hỗ trợ tái thiết cơ sở hạ tầng và khôi phục kinh tế sau thảm họa.Tích hợp công nghệ để quản lý việc tái thiết, đảm bảo tính bền vững và lâu dài cho các cộng đồng bị ảnh hưởng.
-- **Khai thác các công nghệ tiên tiến** : Ứng dng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện và đánh giá thảm họa.
+- **Khai thác các công nghệ tiên tiến** : Ứng dụng IoT (Internet of Things) để thu thập dữ liệu thời gian thực từ các cảm biến và thiết bị thông minh, giúp cải thiện độ chính xác trong việc phát hiện và đánh giá thảm họa.
 
 ## 📢 Đối tượng hướng đến
 
@@ -138,7 +138,7 @@ Tối ưu hóa việc điều phối nguồn lực cứu hộ thông qua hệ th
 - **Cộng đồng bị ảnh hưởng bởi thảm họa** : Các cá nhân và cộng đồng trực tiếp chịu ảnh hưng từ thảm họa sẽ có thể nhận được hỗ trợ thông qua nền tảng. Hệ thống cung cấp thông tin về các hoạt động cứu trợ, tái thiết và giúp kết nối với các tổ chức cung cấp nguồn lực.
 - **Truyền thông**: Đng vai trò quan trọng trong việc truyền tải thông tin kịp thời và chính xác đến ngời dân và các cơ quan chức năng.
 
-- **Các tổ chức, công ty cung cp dịch vụ cứu nạn**: Các công ty cung cấp dịch vụ cứu hộ, y tế, vật tư, và tái thiết cơ sở hạ tầng sẽ sử dụng hệ thống để theo dõi các yêu cầu và hỗ trợ các hoạt động cứu nạn và phục hồi. Họ có thể nhận thông tin chi tiết về khu vực bị ảnh hưởng và điều phối các nguồn lực cần thiết.
+- **Các tổ chức, công ty cung cp dịch vụ cứu nạn**: Các công ty cung cấp dịch vụ cứu hộ, y tế, vật tư, và ti thiết cơ sở hạ tầng sẽ sử dụng hệ thống để theo dõi các yêu cầu và hỗ trợ các hoạt động cứu nạn và phục hồi. Họ có thể nhận thông tin chi tiết về khu vực bị ảnh hưởng và điều phối các nguồn lực cần thiết.
 
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phn tích xu hướng thiệt hại và cải tiến các chiến lược phc hồi cho các thảm họa trong tương lai.
 
@@ -193,11 +193,11 @@ relieflink/
 
 Chi tiết hơn xem trong [docs/setup.md](docs/setup.md)
 
-## 📚 Plugins
+## 🧩 Plugins
 - [DTUAppSmithMap](https://www.npmjs.com/package/dtuappsmithmap)
 - [DTUAppSmithRealTime]()
 
-## 📚 Services
+## ⚙️ Services
 - [DTUServerSocket](https://github.com/Truongpyeo/DTUServerSocket)
 
 
@@ -225,7 +225,7 @@ Nếu bạn phát hiện lỗi, vui lòng tạo issue mới với:
 ## 📜 Changelog
 Xem [CHANGELOG.md](CHANGELOG.md) để biết lịch sử thay đổi.
 
-## 📜 Code of Conduct
+## ⚖️ Code of Conduct
 Xem [CODE_OF_CONDUCT.md](CODE_OF_CONDUCT.md) để biết các quy tắc và hành vi được chấp nhận.
 
 ## Báo cáo lỗi & Góp ý
