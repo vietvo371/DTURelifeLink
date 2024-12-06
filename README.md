@@ -140,13 +140,18 @@ Dự án được thực hiện trong cuộc thi [ Phần Mềm Nguồn Mở-Oly
 
 - **Các nhà nghiên cứu và chuyên gia trong lĩnh vực thảm họa và tái thiết**: Các nhà nghiên cứu, chuyên gia trong lĩnh vực thiên tai, cứu trợ và tái thiết sẽ sử dụng ứng dụng để thu thập dữ liệu, phân tích xu hướng thiệt hại và cải tiến các chiến lược phục hồi cho các thảm họa trong tương lai.
 
-## Nhà phát triển
+## 💡Nhà phát triển
 
 📧 Email: thanhtruong23111999@gmail.com 
 
-📱 Hotline: 0376659652
+📱 Hotline: +84 376 659 652
 
-*" 🏫 DTU DZ - DUY TAN UNIVERSITY - SCS ✨"*
+## 📞 Liên hệ
+- Lê Thanh Trường       :  <u>thanhtruong23111999@gmail.com</u>
+- Võ Văn Việt           :  <u>vietvo371@gmail.com</u>
+- Nguyễn Ngọc Duy Thái  :  <u>kkdn011@gmail.com</u>
+
+*" 🏫 DTU_DZ - DUY TAN UNIVERSITY - SCS ✨"*
 ### 📝 License
 Dự án này được cấp phép theo các điều khoản của giấy phép [MIT License](LICENSE)
 
