@@ -188,15 +188,15 @@ Bạn có thể trải nghiệm ReliefLink tại: https://dz1.dzfullstack.com/
 Bạn có thể dùng các tài khoản sau để trải nghiệm:
 
 **Portal Người Dùng:**
-- Email: nguoidung@demo.com
+- Email: admin1@example.com
 - Password: 123456
 
 **Portal Nhân Lực:**
-- Email: nhanluc@demo.com  
+- Email: nhanlucA@example.com 
 - Password: 123456
 
 **Portal Admin:**
-- Email: admin@demo.com
+- Email: a@example.com
 - Password: 123456
 
 > **Lưu ý**: Đây là tài khoản demo chỉ có quyền hạn giới hạn. Để sử dụng đầy đủ tính năng, vui lòng đăng ký tài khoản mới.
@@ -221,7 +221,7 @@ relieflink/
 └── assets/         # Hình ảnh, tài nguyên
 ```
 ## 📖 Hướng dẫn chung
-   ### Document [Document](https://docs-relieflink.thanhtruongit.io.vn/DTU-Relieflink-documents/docs/intro)
+   ### Document [Document](docs/setup.md)
 
 ## 📚 Hướng dẫn cài đặt
 
